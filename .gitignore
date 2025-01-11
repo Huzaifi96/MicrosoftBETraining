@@ -1,0 +1,24 @@
+# Compiled files
+bin/
+obj/
+*.exe
+*.dll
+
+# User-specific files
+.vscode/
+.vs/
+*.user
+*.suo
+*.csproj.user
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+.nuget/
